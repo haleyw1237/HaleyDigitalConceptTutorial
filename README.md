@@ -1,4 +1,4 @@
-# Haley Digital Concept Tutorial
+# Haley's Digital Concept Tutorial
 **Author: Haley Williams**
 
 **How to use Audacity**
